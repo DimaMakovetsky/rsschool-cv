@@ -8,6 +8,8 @@ Discord: Skade#8787
 
 
 ## Briefly about myself
+
+
 I believe my abilities will help me to become a Frontend Developer
 
 
